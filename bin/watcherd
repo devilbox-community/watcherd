@@ -3,6 +3,7 @@
 # The MIT License (MIT)
 #
 # Copyright (c) 2017 cytopia
+# Copyright (c) 2024-present nntoan
 #
 
 ############################################################
@@ -26,8 +27,8 @@ IFS=$'\n'
 # Versioning
 MY_NAME="watcherd"
 MY_DATE="2023-03-01"
-MY_URL="https://github.com/devilbox/watcherd"
-MY_AUTHOR="cytopia <cytopia@everythingcli.org>"
+MY_URL="https://github.com/devilbox-community/watcherd"
+MY_AUTHOR="nntoan <devilbox@nntoan.com>"
 MY_GPGKEY="0xA02C56F0"
 MY_VERSION="1.1.0"
 MY_LICENSE="MIT"
